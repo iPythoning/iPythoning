@@ -1,0 +1,20 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with PulseAgent blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://pulseagent.io/feed.xml"
+          max_post_count: 5
+          template: "- [$title]($url)"
+          commit_message: "chore: sync latest pulseagent.io blog posts"

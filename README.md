@@ -70,6 +70,23 @@ Building **[DigitalForce](https://digitalforce.cc)** — the AI digital workforc
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/iPythoning)
 
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+> Live feed from [pulseagent.io/blog](https://pulseagent.io/blog) — auto-synced daily.
+
+## Currently Using
+
+![Opus](https://img.shields.io/badge/Opus_4.7-Advisor-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![Sonnet](https://img.shields.io/badge/Sonnet_4.6-Executor-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
+![Haiku](https://img.shields.io/badge/Haiku_4.5-Worker-10B981?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-IDE-000000?style=flat-square&logo=cursor&logoColor=white)
+![Claude_Code](https://img.shields.io/badge/Claude_Code-CLI-D97706?style=flat-square&logo=anthropic&logoColor=white)
+
+> Sonnet for hands, Opus for advice, Haiku for cheap parallel workers. 3–6 Claude Code instances run in parallel on any given day.
+
 ## What I'm Doing
 
 - **Building DigitalForce** — A mother brand for AI digital workers across B2B export, real estate, proxy infra, and content ops.
