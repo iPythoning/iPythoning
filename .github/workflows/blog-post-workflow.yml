@@ -12,8 +12,8 @@ jobs:
     name: Update README with PulseAgent blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - uses: gautamkrishnar/blog-post-workflow@3ba55287c220f65b8c0bbb86a1c34a5fff1124cd # v1
         with:
           feed_list: "https://pulseagent.io/feed.xml"
           max_post_count: 5
