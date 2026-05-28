@@ -73,11 +73,11 @@ Building **[DigitalForce](https://digitalforce.cc)** — the AI digital workforc
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw v2026.5.26：网关加速、安全加固与多渠道表情审批](https://pulseagent.io/blog/openclaw-v2026-5-26-faster-gateway-security-reaction-approvals)
-- [WhatsApp + Email Follow-Up Agent for Cross-Border B2B Traders](https://pulseagent.io/blog/whatsapp-email-follow-up-agent-for-cross-border-b2b-traders)
-- [Pre-quote Document Validation Stops Lost Deals in Cross-Border Vehicle Trade](https://pulseagent.io/blog/pre-quote-document-validation-stops-lost-deals-in-cross-border-vehicle-trade)
-- [Daily FOB and CIF Price Tracking: Why a Week-Old Quote Costs You Margin](https://pulseagent.io/blog/daily-fob-and-cif-price-tracking-why-a-week-old-quote-costs-you-margin)
-- [24-Hour WhatsApp Follow-Up Agent Prevents Lead Loss for B2B Traders](https://pulseagent.io/blog/24-hour-whatsapp-follow-up-agent-prevents-lead-loss-for-b2b-traders)
+- [OpenClaw v2026.5.27：安全加固、网关缓存与供应商扩展](https://pulseagent.io/blog/openclaw-v2026-5-27-security-hardening-provider-expansion)
+- [test](https://pulseagent.io/blog/test)
+- [OpenClaw v2026.5.26：启动提速、转录管线与实时语音控制](https://pulseagent.io/blog/openclaw-v2026-5-26-faster-startup-transcripts-voice-control)
+- [24-Hour Follow-Up Agent for B2B Vehicle and Machinery Traders](https://pulseagent.io/blog/24-hour-follow-up-agent-for-b2b-vehicle-and-machinery-traders)
+- [Pre-Quote Document Validation Saves Days in B2B Vehicle Trading](https://pulseagent.io/blog/pre-quote-document-validation-saves-days-in-b2b-vehicle-trading)
 <!-- BLOG-POST-LIST:END -->
 
 > Live feed from [pulseagent.io/blog](https://pulseagent.io/blog) — auto-synced daily.
