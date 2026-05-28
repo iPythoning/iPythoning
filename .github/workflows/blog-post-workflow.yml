@@ -17,5 +17,4 @@ jobs:
         with:
           feed_list: "https://pulseagent.io/feed.xml"
           max_post_count: 5
-          template: "- [$title]($url)"
           commit_message: "chore: sync latest pulseagent.io blog posts"
