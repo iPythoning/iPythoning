@@ -73,11 +73,11 @@ Building **[DigitalForce](https://digitalforce.cc)** — the AI digital workforc
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp and Email Follow-Up Agent for Cross-Border B2B Vehicle Traders](https://pulseagent.io/blog/whatsapp-and-email-follow-up-agent-for-cross-border-b2b-vehicle-traders)
+- [Real-Time FOB/CIF Pricing: Steel and Freight Rate Change Tracking for B2B Buyers](https://pulseagent.io/blog/real-time-fobcif-pricing-steel-and-freight-rate-change-tracking-for-b2b-buyers)
+- [Trade-Document Pre-Validation Engine Stops Deals From Falling Apart](https://pulseagent.io/blog/trade-document-pre-validation-engine-stops-deals-from-falling-apart)
 - [OpenClaw v2026.5.27：安全加固、网关缓存与供应商扩展](https://pulseagent.io/blog/openclaw-v2026-5-27-security-hardening-provider-expansion)
 - [test](https://pulseagent.io/blog/test)
-- [OpenClaw v2026.5.26：启动提速、转录管线与实时语音控制](https://pulseagent.io/blog/openclaw-v2026-5-26-faster-startup-transcripts-voice-control)
-- [24-Hour Follow-Up Agent for B2B Vehicle and Machinery Traders](https://pulseagent.io/blog/24-hour-follow-up-agent-for-b2b-vehicle-and-machinery-traders)
-- [Pre-Quote Document Validation Saves Days in B2B Vehicle Trading](https://pulseagent.io/blog/pre-quote-document-validation-saves-days-in-b2b-vehicle-trading)
 <!-- BLOG-POST-LIST:END -->
 
 > Live feed from [pulseagent.io/blog](https://pulseagent.io/blog) — auto-synced daily.
