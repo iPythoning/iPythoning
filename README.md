@@ -73,11 +73,11 @@ Building **[DigitalForce](https://digitalforce.cc)** — the AI digital workforc
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pre-Quote Document Validation for B2B Vehicle Traders](https://pulseagent.io/blog/pre-quote-document-validation-for-b2b-vehicle-traders)
+- [Real-Time FOB/CIF Pricing with Expiry Dates for Machinery Traders](https://pulseagent.io/blog/real-time-fobcif-pricing-with-expiry-dates-for-machinery-traders)
+- [AI Sourcing Goes Live: AutoGlobal.ai Crunches Excel Inquiries to Quotes](https://pulseagent.io/blog/ai-sourcing-goes-live-autoglobalai-crunches-excel-inquiries-to-quotes)
 - [WhatsApp and Email Follow-Up Agent for Cross-Border B2B Vehicle Traders](https://pulseagent.io/blog/whatsapp-and-email-follow-up-agent-for-cross-border-b2b-vehicle-traders)
 - [Real-Time FOB/CIF Pricing: Steel and Freight Rate Change Tracking for B2B Buyers](https://pulseagent.io/blog/real-time-fobcif-pricing-steel-and-freight-rate-change-tracking-for-b2b-buyers)
-- [Trade-Document Pre-Validation Engine Stops Deals From Falling Apart](https://pulseagent.io/blog/trade-document-pre-validation-engine-stops-deals-from-falling-apart)
-- [OpenClaw v2026.5.27：安全加固、网关缓存与供应商扩展](https://pulseagent.io/blog/openclaw-v2026-5-27-security-hardening-provider-expansion)
-- [test](https://pulseagent.io/blog/test)
 <!-- BLOG-POST-LIST:END -->
 
 > Live feed from [pulseagent.io/blog](https://pulseagent.io/blog) — auto-synced daily.
