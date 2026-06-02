@@ -73,11 +73,11 @@ Building **[DigitalForce](https://digitalforce.cc)** — the AI digital workforc
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Live FOB/CIF Pricing with Validity Window: Stop Losing Margin on Volatile Steel and Freight Costs](https://pulseagent.io/blog/live-fobcif-pricing-with-validity-window-stop-losing-margin-on-volatile-steel-an)
+- [WhatsApp &amp; Email 24-Hour Follow-Up Agent for B2B Trade](https://pulseagent.io/blog/whatsapp-email-24-hour-follow-up-agent-for-b2b-trade)
+- [Pipeline-First Quoting with Auto-Generated Trade Docs](https://pulseagent.io/blog/pipeline-first-quoting-with-auto-generated-trade-docs)
 - [WhatsApp &amp; Email Follow-Up Agent for Cross-Border B2B Sellers](https://pulseagent.io/blog/whatsapp-email-follow-up-agent-for-cross-border-b2b-sellers)
 - [Live FOB/CIF Pricing with Rate-of-Change Tracking for Cross-Border Traders](https://pulseagent.io/blog/live-fobcif-pricing-with-rate-of-change-tracking-for-cross-border-traders)
-- [Pre-Validation of Trade Documents – Stop Customs Rejections Before the Quote](https://pulseagent.io/blog/pre-validation-of-trade-documents-stop-customs-rejections-before-the-quote)
-- [Document Pre-Validation Engine: Stop Export Deals Before Documents Fail](https://pulseagent.io/blog/document-pre-validation-engine-stop-export-deals-before-documents-fail)
-- [Real-time FOB CIF Pricing with Rate-of-Change Tracking for Vehicle Traders](https://pulseagent.io/blog/real-time-fob-cif-pricing-with-rate-of-change-tracking-for-vehicle-traders)
 <!-- BLOG-POST-LIST:END -->
 
 > Live feed from [pulseagent.io/blog](https://pulseagent.io/blog) — auto-synced daily.
