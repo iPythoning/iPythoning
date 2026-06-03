@@ -73,11 +73,11 @@ Building **[DigitalForce](https://digitalforce.cc)** — the AI digital workforc
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trade Document Pre-Validation for B2B Vehicle and Machinery Dealers](https://pulseagent.io/blog/trade-document-pre-validation-for-b2b-vehicle-and-machinery-dealers)
+- [Real-Time FOB/CIF Price Tracker for Excel Pipelines](https://pulseagent.io/blog/real-time-fobcif-price-tracker-for-excel-pipelines)
 - [Live FOB/CIF Pricing with Validity Window: Stop Losing Margin on Volatile Steel and Freight Costs](https://pulseagent.io/blog/live-fobcif-pricing-with-validity-window-stop-losing-margin-on-volatile-steel-an)
 - [WhatsApp &amp; Email 24-Hour Follow-Up Agent for B2B Trade](https://pulseagent.io/blog/whatsapp-email-24-hour-follow-up-agent-for-b2b-trade)
 - [Pipeline-First Quoting with Auto-Generated Trade Docs](https://pulseagent.io/blog/pipeline-first-quoting-with-auto-generated-trade-docs)
-- [WhatsApp &amp; Email Follow-Up Agent for Cross-Border B2B Sellers](https://pulseagent.io/blog/whatsapp-email-follow-up-agent-for-cross-border-b2b-sellers)
-- [Live FOB/CIF Pricing with Rate-of-Change Tracking for Cross-Border Traders](https://pulseagent.io/blog/live-fobcif-pricing-with-rate-of-change-tracking-for-cross-border-traders)
 <!-- BLOG-POST-LIST:END -->
 
 > Live feed from [pulseagent.io/blog](https://pulseagent.io/blog) — auto-synced daily.
