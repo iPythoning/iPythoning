@@ -73,11 +73,11 @@ Building **[DigitalForce](https://digitalforce.cc)** — the AI digital workforc
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [24-Hour Auto Follow-Up for WhatsApp &amp; Email Inquiries](https://pulseagent.io/blog/24-hour-auto-follow-up-for-whatsapp-email-inquiries)
+- [Expiration-Dated Quotes for Steel and Freight Purchasing](https://pulseagent.io/blog/expiration-dated-quotes-for-steel-and-freight-purchasing)
 - [Pre-Quote Document Compliance Check for Vehicle Exporters](https://pulseagent.io/blog/pre-quote-document-compliance-check-for-vehicle-exporters)
 - [Valid-Through Dates on FOB/CIF Quotes: How Real-Time Pricing Ends Guesswork](https://pulseagent.io/blog/valid-through-dates-on-fobcif-quotes-how-real-time-pricing-ends-guesswork)
 - [Excel-to-Quote Engine: Paste Specs, Get Instant Pricing](https://pulseagent.io/blog/excel-to-quote-engine-paste-specs-get-instant-pricing)
-- [OpenClaw v2026.6.1：技能工作坊、多 Agent 看板与九平台渠道加固](https://pulseagent.io/blog/openclaw-v2026-6-1-skill-workshop-workboard-channels)
-- [OpenClaw v2026.5.28：运行时恢复、Claude Opus 4.8 与多平台安全加固](https://pulseagent.io/blog/openclaw-v2026-5-28-runtime-recovery-claude-opus-48)
 <!-- BLOG-POST-LIST:END -->
 
 > Live feed from [pulseagent.io/blog](https://pulseagent.io/blog) — auto-synced daily.
