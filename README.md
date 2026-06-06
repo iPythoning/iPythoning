@@ -73,11 +73,11 @@ Building **[DigitalForce](https://digitalforce.cc)** — the AI digital workforc
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Real-Time FOB/CIF Pricing With Rate-of-Change Tracking for Steel Traders](https://pulseagent.io/blog/real-time-fobcif-pricing-with-rate-of-change-tracking-for-steel-traders)
+- [Trade-Document Pre-Validation Automates Compliance Checks Before Quotes](https://pulseagent.io/blog/trade-document-pre-validation-automates-compliance-checks-before-quotes)
+- [AutoGlobal.ai Goes Live — AI-Driven Sourcing for B2B Vehicle Trade](https://pulseagent.io/blog/autoglobalai-goes-live-ai-driven-sourcing-for-b2b-vehicle-trade)
 - [24-Hour Auto Follow-Up for WhatsApp &amp; Email Inquiries](https://pulseagent.io/blog/24-hour-auto-follow-up-for-whatsapp-email-inquiries)
 - [Expiration-Dated Quotes for Steel and Freight Purchasing](https://pulseagent.io/blog/expiration-dated-quotes-for-steel-and-freight-purchasing)
-- [Pre-Quote Document Compliance Check for Vehicle Exporters](https://pulseagent.io/blog/pre-quote-document-compliance-check-for-vehicle-exporters)
-- [Valid-Through Dates on FOB/CIF Quotes: How Real-Time Pricing Ends Guesswork](https://pulseagent.io/blog/valid-through-dates-on-fobcif-quotes-how-real-time-pricing-ends-guesswork)
-- [Excel-to-Quote Engine: Paste Specs, Get Instant Pricing](https://pulseagent.io/blog/excel-to-quote-engine-paste-specs-get-instant-pricing)
 <!-- BLOG-POST-LIST:END -->
 
 > Live feed from [pulseagent.io/blog](https://pulseagent.io/blog) — auto-synced daily.
