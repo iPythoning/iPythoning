@@ -73,11 +73,11 @@ Building **[DigitalForce](https://digitalforce.cc)** — the AI digital workforc
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Real-Time FOB/CIF Pricing with Rate-of-Change Tracking for B2B Traders](https://pulseagent.io/blog/real-time-fobcif-pricing-with-rate-of-change-tracking-for-b2b-traders)
+- [WhatsApp + Email Follow-Up Agent for Cross-Border B2B Inquiries](https://pulseagent.io/blog/whatsapp-email-follow-up-agent-for-cross-border-b2b-inquiries)
+- [Trade-Document Pre-Validation: Stop Deal-Killing Doc Errors Before You Quote](https://pulseagent.io/blog/trade-document-pre-validation-stop-deal-killing-doc-errors-before-you-quote)
 - [Real-Time FOB/CIF Pricing With Rate-of-Change Tracking for Steel Traders](https://pulseagent.io/blog/real-time-fobcif-pricing-with-rate-of-change-tracking-for-steel-traders)
 - [Trade-Document Pre-Validation Automates Compliance Checks Before Quotes](https://pulseagent.io/blog/trade-document-pre-validation-automates-compliance-checks-before-quotes)
-- [AutoGlobal.ai Goes Live — AI-Driven Sourcing for B2B Vehicle Trade](https://pulseagent.io/blog/autoglobalai-goes-live-ai-driven-sourcing-for-b2b-vehicle-trade)
-- [24-Hour Auto Follow-Up for WhatsApp &amp; Email Inquiries](https://pulseagent.io/blog/24-hour-auto-follow-up-for-whatsapp-email-inquiries)
-- [Expiration-Dated Quotes for Steel and Freight Purchasing](https://pulseagent.io/blog/expiration-dated-quotes-for-steel-and-freight-purchasing)
 <!-- BLOG-POST-LIST:END -->
 
 > Live feed from [pulseagent.io/blog](https://pulseagent.io/blog) — auto-synced daily.
