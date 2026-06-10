@@ -73,11 +73,11 @@ Building **[DigitalForce](https://digitalforce.cc)** — the AI digital workforc
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenClaw v2026.6.5：并行搜索、技能固定部署与渠道稳定性修复](https://pulseagent.io/blog/openclaw-v2026-6-5-parallel-search-skills-channel-fixes-zh)
+- [OpenClaw v2026.6.5: Parallel Search, Skills &amp; Channel Fixes](https://pulseagent.io/blog/openclaw-v2026-6-5-parallel-search-skills-channel-fixes)
 - [OpenClaw v2026.6.5：并行网络搜索、AI会话恢复与全渠道加固](https://pulseagent.io/blog/openclaw-v2026-6-5-parallel-search-ai-session-recovery)
 - [test](https://pulseagent.io/blog/test-v2)
 - [Real-Time FOB/CIF Pricing With Rate-of-Change Tracking for B2B Traders](https://pulseagent.io/blog/real-time-fobcif-pricing-with-rate-of-change-tracking-for-b2b-traders)
-- [How a WhatsApp and Email Follow-Up Agent Recovers 30% of Lost B2B Leads](https://pulseagent.io/blog/how-a-whatsapp-and-email-follow-up-agent-recovers-30-of-lost-b2b-leads)
-- [24-Hour Dead Inquiry Recovery Agent for Vehicle Traders](https://pulseagent.io/blog/24-hour-dead-inquiry-recovery-agent-for-vehicle-traders)
 <!-- BLOG-POST-LIST:END -->
 
 > Live feed from [pulseagent.io/blog](https://pulseagent.io/blog) — auto-synced daily.
