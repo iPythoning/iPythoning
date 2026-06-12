@@ -59,6 +59,7 @@ Building **[DigitalForce](https://digitalforce.cc)** — the AI digital workforc
 ### Free Tools
 
 - 🔍 **[Domain Monitor Client](https://ipythoning.github.io/domain-monitor-client/)** — Zero-backend domain & SSL expiry tracker. One HTML file, pure client-side RDAP + crt.sh.
+- 🔔 **[Domain Expiry Action](https://github.com/marketplace/actions/domain-expiry-monitor)** — GitHub Action for automated domain & SSL monitoring. Issues auto-created/closed. Zero config server.
 - ⚖️ **[Lien Deadlines](https://ipythoning.github.io/lien-deadlines/)** — Free mechanics lien deadline reference (CA, TX, FL). Statute-cited, no signup.
 
 ### Tools & Experiments
