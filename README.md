@@ -56,6 +56,11 @@ Building **[DigitalForce](https://digitalforce.cc)** — the AI digital workforc
 - 🛍️ **[wordpress-trade-starter](https://github.com/iPythoning/wordpress-trade-starter)** — Production-ready WordPress template for international trade. Docker, performance-tuned, multilingual.
 - 🪴 **[ubuild-hugo-starter](https://github.com/iPythoning/ubuild-hugo-starter)** / 📰 **[novela-hugo-starter](https://github.com/iPythoning/novela-hugo-starter)** / 🎨 **[one-click-hugo-cms](https://github.com/iPythoning/one-click-hugo-cms)** — Hugo skeletons for the content-factory pipeline.
 
+### Free Tools
+
+- 🔍 **[Domain Monitor Client](https://ipythoning.github.io/domain-monitor-client/)** — Zero-backend domain & SSL expiry tracker. One HTML file, pure client-side RDAP + crt.sh.
+- ⚖️ **[Lien Deadlines](https://ipythoning.github.io/lien-deadlines/)** — Free mechanics lien deadline reference (CA, TX, FL). Statute-cited, no signup.
+
 ### Tools & Experiments
 
 - 🎯 **[OfferAgent](https://github.com/iPythoning/OfferAgent)** — Executive job-hunt copilot, dogfooded.
