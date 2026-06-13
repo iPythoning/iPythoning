@@ -80,11 +80,11 @@ Building **[DigitalForce](https://digitalforce.cc)** — the AI digital workforc
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenClaw v2026.6.6: Security &amp; Multi-Channel Reliability](https://pulseagent.io/blog/openclaw-v2026-6-6-security-multi-channel-reliability)
 - [OpenClaw 2026.6.6: Claude Fable 5 AI &amp; Security Hardening](https://pulseagent.io/blog/openclaw-2026-6-6-fable5-security-telegram-imessage)
 - [Unified Agent Memory for Cross-Platform Lead Context](https://pulseagent.io/blog/unified-agent-memory-for-cross-platform-lead-context)
 - [OpenClaw v2026.6.5：并行搜索、技能固定部署与渠道稳定性修复](https://pulseagent.io/blog/openclaw-v2026-6-5-parallel-search-skills-channel-fixes-zh)
 - [OpenClaw v2026.6.5: Parallel Search, Skills &amp; Channel Fixes](https://pulseagent.io/blog/openclaw-v2026-6-5-parallel-search-skills-channel-fixes)
-- [OpenClaw v2026.6.5：并行网络搜索、AI会话恢复与全渠道加固](https://pulseagent.io/blog/openclaw-v2026-6-5-parallel-search-ai-session-recovery)
 <!-- BLOG-POST-LIST:END -->
 
 > Live feed from [pulseagent.io/blog](https://pulseagent.io/blog) — auto-synced daily.
