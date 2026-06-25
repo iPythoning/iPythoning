@@ -17,7 +17,7 @@ Building **[DigitalForce](https://digitalforce.cc)** — the AI digital workforc
 
 ## Start Here
 
-- 🦞 **[b2b-sdr-agent-template](https://github.com/iPythoning/b2b-sdr-agent-template)** (105★) — Open-source AI SDR template for B2B export. 10-stage pipeline, 10 cron jobs, 4-engine memory, multi-channel (WhatsApp + Telegram + Email).
+- 🦞 **[b2b-sdr-agent-template](https://github.com/iPythoning/b2b-sdr-agent-template)** (129★) — Open-source AI SDR template for B2B export. 10-stage pipeline, 10 cron jobs, 4-engine memory, multi-channel (WhatsApp + Telegram + Email).
 - 🤖 **[PulseAgent](https://pulseagent.io)** — Multi-tenant AI digital workforce platform. 297 APIs, 36 pages, agents that actually ship work.
 - 🛰️ **[Hermes SDR Skill](https://github.com/iPythoning/b2b-sdr-hermes-skill)** — Autonomous AI SDR for B2B export — finds buyers, qualifies leads, runs outreach across WhatsApp/Email/Telegram.
 - 🎬 **[AI Video Studio](https://github.com/iPythoning/ai-video-studio)** — OpenClaw skill for AI video generation (Seedance 2.0) + editing (CapCut Mate / FFmpeg). Generate → Edit → Export, all server-side.
