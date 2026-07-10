@@ -1,5 +1,9 @@
 # Hi, I'm Clark 👋
 
+<!-- bmc:front -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:front -->
+
 📍 **China** | 🤖 **AI Digital Workforce Builder** | 🚀 **Founder of DigitalForce**
 
 Building **[DigitalForce](https://digitalforce.cc)** — the AI digital workforce that runs B2B exports, real estate ops, residential proxies, and content distribution while you sleep.
@@ -66,6 +70,10 @@ Building **[DigitalForce](https://digitalforce.cc)** — the AI digital workforc
 ### Tools & Experiments
 
 - 🎯 **[OfferAgent](https://github.com/iPythoning/OfferAgent)** — Executive job-hunt copilot, dogfooded.
+
+<!-- bmc:middle -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:middle -->
 
 ### Legacy & Archives
 
@@ -140,6 +148,6 @@ Building **[DigitalForce](https://digitalforce.cc)** — the AI digital workforc
 
 </details>
 
-## Support
-
-[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=dayongfan&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/dayongfan)
+<!-- bmc:end -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:end -->
