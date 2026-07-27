@@ -88,11 +88,11 @@ Building **[DigitalForce](https://digitalforce.cc)** — the AI digital workforc
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Product Updates — 2026-07-27](https://pulseagent.io/blog/changelog-2026-07-27)
+- [90-Day Burnout Cost Analysis: Why Human SDRs Cost 3x More Than PulseAgent for B2B Export Sales](https://pulseagent.io/blog/90-day-burnout-cost-analysis-human-sdr-vs-pulseagent-b2b-export-sales)
 - [Real-Time FOB/CIF Pricing with Validity Dates for Exporters](https://pulseagent.io/blog/real-time-fobcif-pricing-with-validity-dates-for-exporters)
 - [WhatsApp &amp; Email Follow-Up Agent for B2B Traders](https://pulseagent.io/blog/whatsapp-email-follow-up-agent-for-b2b-traders)
 - [Trade Document Pre-Validation: Stop Costly Export Errors](https://pulseagent.io/blog/trade-document-pre-validation-stop-costly-export-errors)
-- [Real-Time FOB/CIF Pricing with Expiry Dates for B2B Traders](https://pulseagent.io/blog/real-time-fobcif-pricing-with-expiry-dates-for-b2b-traders)
-- [WhatsApp &amp; Email Follow-Up Agent for B2B Sales](https://pulseagent.io/blog/whatsapp-email-follow-up-agent-for-b2b-sales)
 <!-- BLOG-POST-LIST:END -->
 
 > Live feed from [pulseagent.io/blog](https://pulseagent.io/blog) — auto-synced daily.
