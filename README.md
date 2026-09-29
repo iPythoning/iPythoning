@@ -62,6 +62,7 @@ Building **[DigitalForce](https://digitalforce.cc)** — the AI digital workforc
 
 ### Free Tools
 
+- 📱 **[PaibaoWork](https://paibaowork.com)** — 免费 WhatsApp 工具站（中文）:封号申诉信生成、封号自诊、养号打卡、团队防关联体检、验证码排查、代注册验收 + 跨境 5 专题内容库（WhatsApp / 静态住宅 IP / LinkedIn / 海外 AI 工具 / 虚拟支付）。
 - 🌐 **[DNS Tools](https://ipythoning.github.io/dns-tools/)** — Free DNS lookup, WHOIS, SSL check & domain expiry. 4 tools + 6 in-depth guides (record types, propagation, cache, WHOIS). No ads, no tracking.
 - 🔍 **[Domain Monitor Client](https://ipythoning.github.io/domain-monitor-client/)** — Zero-backend domain & SSL expiry tracker. One HTML file, pure client-side RDAP + crt.sh.
 - 🔔 **[Domain Expiry Action](https://github.com/marketplace/actions/domain-expiry-monitor)** — GitHub Action for automated domain & SSL monitoring. Issues auto-created/closed. Zero config server.
